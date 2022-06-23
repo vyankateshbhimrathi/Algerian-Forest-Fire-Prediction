@@ -35,7 +35,7 @@
 * Pandas, Numpy, Matplotlib for csv reading, Data Processing, Data Cleaning, Visualization etc.
 
 ## Deployed app
-[LINK TO HEROKU APP]
+[LINK TO HEROKU APP](https://algerian-fire-prediction.herokuapp.com/)
 
 <!-- GETTING STARTED -->
 ## Introduction
