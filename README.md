@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/vyankateshbhimrathi">
-    <img src="https://i.pinimg.com/600x315/34/b6/d1/34b6d10a0c369acd7374a49bf1897b2d.jpg" alt="Logo" width="80" height="80"/> 
+    <img src="https://i.pinimg.com/600x315/34/b6/d1/34b6d10a0c369acd7374a49bf1897b2d.jpg" alt="Logo" width="120" height="120"/> 
   </a>
 
 <h3 align="center">Algerian-Forest-Fire-Prediction</h3>
