@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/vyankateshbhimrathi">
-    <img src="https://img.icons8.com/external-flat-wichaiwi/64/undefined/external-bush-fire-climate-change-flat-wichaiwi.png" alt="Logo" width="80" height="80"/> 
+    <img src="https://i.pinimg.com/600x315/34/b6/d1/34b6d10a0c369acd7374a49bf1897b2d.jpg" alt="Logo" width="80" height="80"/> 
   </a>
 
 <h3 align="center">Algerian-Forest-Fire-Prediction</h3>
@@ -95,13 +95,13 @@
 
 <!-- CONTACT -->
 ## Contact
-[![VYANKATESH BHIMRATHI | LinkedIn]][reach_linkedin_1]
+[[VYANKATESH BHIMRATHI | LinkedIn]][reach_linkedin_1]
 
 
 <!-- CREDITS -->
 ## Credits
 [![Aravind Selvam | LinkedIn](https://img.shields.io/badge/Aravind_Selvam-eeeeee?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2)][reach_linkedin]
-[![Aravind Selvam | Github]][reach_github]
+[[Aravind Selvam | Github]][reach_github]
 
 
 
